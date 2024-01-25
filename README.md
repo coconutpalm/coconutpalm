@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coconutpalm - David Orme, sometimes doing business as Coconut Palm Software
 - 👀 I’m interested in Functional programming, Clojure(script), Scala, Javascript
-- 📫 How to reach me david a coconut-palm-software (com)
+- 📫 How to reach me djo à coconut-palm-software (com)
 
 <!---
 - 🌱 I’m currently working on finance applications in Clojure/script and React
